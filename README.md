@@ -44,6 +44,8 @@ First go to <a target="_blank" href="https://www.themoviedb.org/documentation/ap
 
 ## How to run the app
 
+Git clone **https://github.com/collins-swai/movie-api** and run in VsCode
+
 Step 1: Set Up Your Development Environment
 
 Make sure you have Node.js and npm (Node Package Manager) installed on your computer. You can download them from the official website: https://nodejs.org/
